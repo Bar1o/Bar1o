@@ -1,4 +1,4 @@
-## 👾 Hi, there! I'm Bari Anis and I'm a HSE Economics and Data Science student.
+## 👾 Hi, there! I'm Bari Anis!
 
 I believe that data culture, AI and technologies are to provide the humanity to great and prosperous future.
 
