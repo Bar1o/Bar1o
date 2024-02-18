@@ -1,4 +1,4 @@
-## 👾 I'm Bari and I'm learning DS cause it's really cool
+## 👾 Hi, there! I'm Bari Anis and I'm a HSE Economics and Data Science student. I believe that data culture, AI and technologies are to prove humanity in prosperous future.
 
 ## 💻 Tech Stack
 
