@@ -3,7 +3,7 @@
 I believe that data culture, AI and technologies are to provide the humanity to great and prosperous future.
 
 So far, my interests are:
-- Maths and programming (Linear Algebra, Discrete Maths, Probability Theory, Math Analysis, Python, C++)
+- Maths and programming
 - Global economy and finance
 - AI and data analysis
 - Content creating (such as making videos for commerce and creating digital arts)
