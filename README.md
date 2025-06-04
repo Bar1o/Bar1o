@@ -1,1 +1,1 @@
-Love coding, technology and finance
+Love coding, technology, finance and data analysis
